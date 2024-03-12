@@ -12,6 +12,7 @@ namespace TestGitProject
         {
             Console.Write("This Vladik!");
             Console.WriteLine("New change");
+            Console.Write("second");
         }
     }
 }
